@@ -1,5 +1,5 @@
-from text2speech import tts
+from speech2text import stt
 
 location = "/Users/pieronanni/Music/MUSIC TO FIX/200 ok"
 
-tts(location)
+stt(location)

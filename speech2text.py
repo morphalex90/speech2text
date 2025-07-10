@@ -1,4 +1,4 @@
-def tts(location):
+def stt(location):
     print(location)
 
     import os
